@@ -176,4 +176,39 @@ public class SpaceDAO {
 		return spaceType;
 	}
 
+	/**
+	 * 공간 룸 옵션 조회
+	 * @param spaceRoomNo
+	 * @param conn
+	 * @return spaceRoomOption
+	 * @throws Exception
+	 */
+	public List<Space> selectSpaceRoomOption(int spaceRoomNo, Connection conn) throws Exception{
+		List<Space> spaceRoomOption = new ArrayList<Space>();
+		
+		try {
+			String sql = prop.getProperty("selectSpaceRoomOption");
+			
+			pstmt = conn.prepareStatement(sql);
+			pstmt.setInt(1, spaceRoomNo);
+			
+			rs = pstmt.executeQuery();
+			
+			while(rs.next()) {
+				Space space = new Space();
+				
+				// 채울곳
+			
+				spaceRoomOption.add(space);
+			}
+			
+		} finally {
+			close(rs);
+			close(pstmt);
+			
+		}
+		
+		return spaceRoomOption;
+	}
+
 }

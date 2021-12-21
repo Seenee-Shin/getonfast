@@ -1,5 +1,7 @@
 package getonFast.hj.semi.space.model.vo;
 
+import java.util.List;
+
 public class Space {
 	private int spaceNo;
 	private String spaceNm;

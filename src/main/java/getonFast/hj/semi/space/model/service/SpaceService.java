@@ -46,6 +46,14 @@ public class SpaceService {
 	public List<Space> selectSpaceRoom(int spaceNo) throws Exception {
 		Connection conn = getConnection();
 		List<Space> spaceRoomList = dao.selectSpaceRoom(spaceNo, conn);
+		
+		for(Space space : spaceRoomList) {
+			List<Space> spaceRoomOption = dao.selectSpaceRoomOption(space.getSpaceRoomNo(), conn);
+		}
+		
+		
+		
+		
 		close(conn);
 		
 		return spaceRoomList;

@@ -27,24 +27,29 @@
                 </div>
             </div>
             
-            
-
-            <!-- <div class="non_list_area">
-                <div  class="non_list">
-                    <span>현재 등록된 문의가 없습니다.</span>
-                </div>
-            </div> -->
             <div class="list_area">
-            	<c:forEach items="${qnaList}" var="qna">
-		            <div class="list">
-	                    <div class="img_area"><img class="list_img" src="${contextPath}/resources/images/space_img/sinchon.jpg"></div>
-	                    <div class="content_area">
-	                        <div class="title">${qna.queTitle}</div>
-	                        <div class="content">${qna.queContent}</div>
-	                        <div class="date">${qna.queDt}</div>
-	                    </div>
-	                </div>
-	            </c:forEach>
+            	<c:choose>
+            		<c:when test="${!empty qnaList }">
+            			<c:forEach items="${qnaList}" var="qna">
+				            <div class="list">
+			                    <div class="img_area"><img class="list_img" src="${contextPath}/resources/images/space_img/sinchon.jpg"></div>
+			                    <div class="content_area">
+			                        <div class="title">${qna.queTitle}</div>
+			                        <div class="content">${qna.queContent}</div>
+			                        <div class="date">${qna.queDt}</div>
+			                    </div>
+			                </div>
+			            </c:forEach>
+            		</c:when>
+            		
+            		<c:otherwise>
+	            		<div class="non_list_area">
+			                <div  class="non_list">
+			                    <span>현재 등록된 문의가 없습니다.</span>
+			                </div>
+			            </div>
+            		</c:otherwise>
+            	</c:choose>
             </div>
         </div>
     </section>

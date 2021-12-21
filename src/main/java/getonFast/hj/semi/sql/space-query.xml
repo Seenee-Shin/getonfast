@@ -21,4 +21,9 @@
 	<entry key="selectSpaceType">
 		SELECT SPACE_TYPE_NM FROM SPACE_TYPE JOIN SPACE USING(SPACE_TYPE_NO) WHERE SPACE_NO = ?
 	</entry>
+	
+	<entry key="selectSpaceRoomOption">
+		
+	</entry>
+	
 </properties>
