@@ -1,17 +1,15 @@
 # 貸して
 
-GitHub: https://github.com/Seenee-Shin/getonfast.git
 言語: Java, JavaScript, Oracle
-開発期間: 2021.11 ~ 2021.12
 
-[GitHub - Seenee-Shin/getonfast](https://github.com/Seenee-Shin/getonfast.git)
+開発期間: 2021.11 ~ 2021.12
 
 # 💡 Topic
 
 - 空間予約サービス
 - ウェブデザインやコンセプトは[スペースクラウド](https://www.spacecloud.kr/)をコピーしました。
     
-    HTML／CSS/Javascriptを含めた**ソースコードの模写コーディングは一切なし。**
+    HTML／CSS/Javascriptを含めた**ソースコードの模写コーディングはしておりません。**
     
 
 # 📝 Summary
@@ -46,14 +44,14 @@ GitHub: https://github.com/Seenee-Shin/getonfast.git
 - **Ajax**を利用し**非同期処理**を試してみました。
 - データベースから必要な情報を取り出すことができます。
 
-# 📑 Want
+# 📑 Review
 
 - Ajaxを利用するとき、**Jsonデータ型でデータを処理**する練習が必要だと思いました。
 - 全体的に**SQLの作成能力を上げて行きたい**と思いました。
 - **無限スクロールを実装**できず、普通のページネーションで実装したことが残念でした。
     
     いつかは無限スクロールを実装できるように勉強したいと思いました。
-    
+   
 
 ## プロトタイプ（Figma）
 
@@ -90,7 +88,6 @@ GitHub: https://github.com/Seenee-Shin/getonfast.git
 
 ![localhost_12762_hyejinbus_adminSpace_insert (3).png](%E8%B2%B8%E3%81%97%E3%81%A6%2042067/localhost_12762_hyejinbus_adminSpace_insert_(3).png)
 
-/토
 -----------
 ###### SiteMap
 ```
