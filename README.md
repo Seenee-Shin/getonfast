@@ -3,30 +3,34 @@
 言語: Java, JavaScript, Oracle
 
 開発期間: 2021.11 ~ 2021.12
+<br></br>
 
-# 💡 Topic
+## 💡 Topic
 
 - 空間予約サービス
 - ウェブデザインやコンセプトは[スペースクラウド](https://www.spacecloud.kr/)をコピーしました。
     
     HTML／CSS/Javascriptを含めた**ソースコードの模写コーディングはしておりません。**
-    
+<br></br>
 
-# 📝 Summary
+## 📝 Summary
 
 コロナの影響でテレワークが一般化し始めたこの時期に合わせた空間予約サービス。
 
 ホテルや宿泊施設ではなくコワーキングスペースや、セミナールームなど様々な空間を予約できるサイトです。
+<br></br>
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 `Java`, `JavaScript`,`Gson`,`css`,`HTML5`,`ajax`,`tomcat`,`OracleDB`
+<br></br>
 
-# 🧑🏻‍💻 Team
+## 🧑🏻‍💻 Team
 
 - Web-developer ４人
+<br></br>
 
-# 🤚🏻 Part
+## 🤚🏻 Part
 
 - ワイヤーフレーム、プロトタイプ作成
 - 会議録作成
@@ -35,29 +39,31 @@
 - 企画売りページ機能
 - おすすめ空間機能
 - 管理者ぺージ・空間登録
-
-# 🤔 Learned
+<br></br>
+## 🤔 Learned
 
 - プログラミングを学んで参加した初プロジェクトになります。(プログラムの配布 ❌**)**
 - 基本的な**ウェブプログラミングのプロセス**を身につけながら進めました。
 - **Java MVC２モデル**でプロジェクトを作成しました。
 - **Ajax**を利用し**非同期処理**を試してみました。
 - データベースから必要な情報を取り出すことができます。
+<br></br>
 
-# 📑 Review
+## 📑 Review
 
 - Ajaxを利用するとき、**Jsonデータ型でデータを処理**する練習が必要だと思いました。
 - 全体的に**SQLの作成能力を上げて行きたい**と思いました。
 - **無限スクロールを実装**できず、普通のページネーションで実装したことが残念でした。
     
     いつかは無限スクロールを実装できるように勉強したいと思いました。
-   
+<br></br>
 
-## プロトタイプ（Figma）
+## 📜プロトタイプ（Figma）
 
 [https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F6FqsxkMGUmxUvuAiIXcZiL%2Fproject%3Fpage-id%3D0%253A1%26node-id%3D175%253A961%26starting-point-node-id%3D175%253A961%26scaling%3Dscale-down-width](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F6FqsxkMGUmxUvuAiIXcZiL%2Fproject%3Fpage-id%3D0%253A1%26node-id%3D175%253A961%26starting-point-node-id%3D175%253A961%26scaling%3Dscale-down-width)
+<br></br>
 
-# 📷 Screenshot
+## 📷 Screenshot
 
 プロジェクトはハングルで作成され、スクリーショットは日本語の自動翻訳を利用しました。 
 誤訳がある可能性がございますのでご了承ください。
