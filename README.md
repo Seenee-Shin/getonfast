@@ -1,8 +1,14 @@
 # 貸して
+![혜진이가_버스기사조_(제출용)-001](https://user-images.githubusercontent.com/86164711/161538945-cef0b83a-4061-46a8-b392-2cb553784b05.jpg)
 
-言語: Java, JavaScript, Oracle
+## ⏱開発期間
 
-開発期間: 2021.11 ~ 2021.12
+2021.11 ~ 2021.12
+<br></br>
+
+## 🛠 Tech Stack
+
+`Java`, `JavaScript`,`Gson`,`css`,`HTML5`,`AJAX`,`Tomcat`,`OracleDB`
 <br></br>
 
 ## 💡 Topic
@@ -20,10 +26,6 @@
 ホテルや宿泊施設ではなくコワーキングスペースや、セミナールームなど様々な空間を予約できるサイトです。
 <br></br>
 
-## 🛠 Tech Stack
-
-`Java`, `JavaScript`,`Gson`,`css`,`HTML5`,`ajax`,`tomcat`,`OracleDB`
-<br></br>
 
 ## 🧑🏻‍💻 Team
 
@@ -70,29 +72,28 @@
 
 ### **メインページ**
 
-![localhost_12762_hyejinbus_ (1).png](%E8%B2%B8%E3%81%97%E3%81%A6%2042067/localhost_12762_hyejinbus__(1).png)
+![localhost_12762_hyejinbus__(1)](https://user-images.githubusercontent.com/86164711/161538928-1e6b16c5-ab80-4ece-8f5e-7827a090414c.png)
 
 ### **サイドメニュー**
 
-![localhost_12762_hyejinbus_ (4).png](%E8%B2%B8%E3%81%97%E3%81%A6%2042067/localhost_12762_hyejinbus__(4).png)
+![localhost_12762_hyejinbus__(4)](https://user-images.githubusercontent.com/86164711/161538934-a3273326-9194-4515-9c98-ae30662709ef.png)
 
 ハンバーガーメニューをクリックするとサイドメニューが右から左に出現します。
 
 ### **企画展**
-
-![localhost_12762_hyejinbus_promotion (2).png](%E8%B2%B8%E3%81%97%E3%81%A6%2042067/localhost_12762_hyejinbus_promotion_(2).png)
+![localhost_12762_hyejinbus_promotion_(2)](https://user-images.githubusercontent.com/86164711/161538938-112ed3a8-f16f-41db-bcd8-f18de99082ed.png)
 
 ### **企画展詳細ページ**
 
-![localhost_12762_hyejinbus_promotion_detail_no=2 (2).png](%E8%B2%B8%E3%81%97%E3%81%A6%2042067/localhost_12762_hyejinbus_promotion_detail_no2_(2).png)
+![localhost_12762_hyejinbus_promotion_detail_no2_(2)](https://user-images.githubusercontent.com/86164711/161538941-3dca5f42-8db0-491e-94b0-7f9c01856502.png)
 
 ### **検索**
 
-![localhost_12762_hyejinbus_space_search_sv=%EC%B9%B4%ED%8E%98 (2).png](%E8%B2%B8%E3%81%97%E3%81%A6%2042067/localhost_12762_hyejinbus_space_search_svECB9B4ED8E98_(2).png)
+![localhost_12762_hyejinbus_space_search_svECB9B4ED8E98_(2)](https://user-images.githubusercontent.com/86164711/161538942-29d5a134-83d8-4d1a-b58d-43f670af4d93.png)
 
 ### **空間登録ページ**
 
-![localhost_12762_hyejinbus_adminSpace_insert (3).png](%E8%B2%B8%E3%81%97%E3%81%A6%2042067/localhost_12762_hyejinbus_adminSpace_insert_(3).png)
+![localhost_12762_hyejinbus_adminSpace_insert_(3)](https://user-images.githubusercontent.com/86164711/161538935-4238e069-7878-4ef7-bef9-f1225b1b3e5b.png)
 
 -----------
 ###### SiteMap
