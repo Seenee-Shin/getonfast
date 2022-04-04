@@ -80,6 +80,9 @@
 
 ハンバーガーメニューをクリックするとサイドメニューが右から左に出現します。
 
+### 空室ページ
+![localhost_12762_hyejinbus_space_detail_no=72 (2)](https://user-images.githubusercontent.com/86164711/161542088-743e0205-cf30-4ea8-bca5-43112d112ebf.png)
+
 ### **企画展**
 ![localhost_12762_hyejinbus_promotion_(2)](https://user-images.githubusercontent.com/86164711/161538938-112ed3a8-f16f-41db-bcd8-f18de99082ed.png)
 
